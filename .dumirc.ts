@@ -30,7 +30,7 @@ export default defineConfig({
     },
     footer: `Copyright © ${new Date().getFullYear()} by LG UI`,
     socialLinks: {
-      github: 'https://github.com/your-username/lg-ui',
+      github: 'https://github.com/your-username/lggbond-ui',
     },
   },
   theme: {

@@ -5,7 +5,7 @@
 ## 基础用法
 
 ```jsx
-import { LGMap } from 'lg-ui';
+import { LGMap } from 'lggbond-ui';
 
 const logisticsData = [
   {
@@ -33,7 +33,7 @@ export default () => (
 通过启用 `enableMock` 属性，可以在两个点之间自动生成随机的中转站点。
 
 ```jsx
-import { LGMap } from 'lg-ui';
+import { LGMap } from 'lggbond-ui';
 
 // 模拟物流数据
 const logisticsData = [
@@ -63,7 +63,7 @@ export default () => (
 支持设置地图的视图模式和视角。
 
 ```jsx
-import { LGMap } from 'lg-ui';
+import { LGMap } from 'lggbond-ui';
 
 const logisticsData = [
   {

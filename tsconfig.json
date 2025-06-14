@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "lg-components": ["src"],
-      "lg-components/*": ["src/*", "*"]
+      "lggbond-ui": ["src"],
+      "lggbond-ui/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]

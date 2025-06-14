@@ -1,7 +1,7 @@
-# lg-components
+# lggbond-ui
 
-[![NPM version](https://img.shields.io/npm/v/lg-components.svg?style=flat)](https://npmjs.org/package/lg-components)
-[![NPM downloads](http://img.shields.io/npm/dm/lg-components.svg?style=flat)](https://npmjs.org/package/lg-components)
+[![NPM version](https://img.shields.io/npm/v/lggbond-ui.svg?style=flat)](https://npmjs.org/package/lggbond-ui)
+[![NPM downloads](http://img.shields.io/npm/dm/lggbond-ui.svg?style=flat)](https://npmjs.org/package/lggbond-ui)
 
 A react library developed with dumi
 

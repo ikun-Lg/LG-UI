@@ -12,19 +12,19 @@ LG UI 是一个基于 React 的业务组件库,提供了地图等高质量组件
 ## 📦 安装
 
 ```bash
-npm install lg-ui
+npm install lggbond-ui
 ```
 
 或
 
 ```bash
-yarn add lg-ui
+yarn add lggbond-ui
 ```
 
 ## 🔨 示例
 
 ```jsx
-import { LGMap } from 'lg-ui';
+import { LGMap } from 'lggbond-ui';
 
 export default () => (
   <LGMap 
